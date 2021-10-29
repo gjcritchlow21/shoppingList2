@@ -1,6 +1,2 @@
-milk
 eggs
-bread
-cheese
-ice cream
-pumpkin
+ketchup

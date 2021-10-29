@@ -1,2 +1,5 @@
 eggs
 ketchup
+popcorn
+lettuce
+apples
